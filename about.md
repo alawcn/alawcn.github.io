@@ -13,3 +13,9 @@ permalink: /about/
 ### Contact me
 
 [chinaanimallaw@gmail.com](mailto:chinaanimallaw@gmail.com)
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: alawcn.github.io/images/image001.png
+#
+# Flags below are optional
+#
