@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+感谢分享关注！
 
 ### More Information
 
