@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 你是猪!
+title: 中国动物法前沿 China Animal Law Frontier
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
