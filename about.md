@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:chinaanimallaw@gmail.com)
+[chinaanimallaw@gmail.com](mailto:chinaanimallaw@gmail.com)
