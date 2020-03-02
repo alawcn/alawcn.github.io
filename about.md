@@ -10,12 +10,18 @@ permalink: /about/
 
 投稿合作请联系邮件：
 
-### Contact me
+### Contact us
 
 [chinaanimallaw@gmail.com](mailto:chinaanimallaw@gmail.com)
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: alawcn.github.io/images/image001.png
-#
-# Flags below are optional
-#
+### 微信
+动物法前沿
+
+### 微博
+动物法前沿_CALF
+
+### 知乎
+动物法前沿CALF
+
+### 网站
+https://alawcn.github.io/
