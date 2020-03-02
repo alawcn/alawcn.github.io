@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 联系我们
+title: 联系我们 Contact Us
 permalink: /contact-us/
 ---
 如有任何疑问或合作意向，请联系我们。
