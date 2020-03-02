@@ -6,7 +6,7 @@
 name: 中国动物法前沿
 
 # Short bio or description (displayed in the header)
-description: China Animal Law Frontier 🐂
+description: China Animal Law Frontier 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: alawcn.github.io/images/blueicon.png
@@ -20,7 +20,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: alawcn
+  github: alawcn.github.io
   instagram:
   linkedin:
   pinterest:
@@ -40,13 +40,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:alawcn.github.io
+url:http://alawcn.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: 
 
 #
 # !! You don't need to change any of the configuration flags below !!
