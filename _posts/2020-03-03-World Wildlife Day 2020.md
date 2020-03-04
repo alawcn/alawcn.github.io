@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: 世界野生动物植物保护日
+permalink: /world-wildlife-day-2020/
+---
 ## 世界野生动物植物保护日 2020：维护地球上所有的生命 
 
 
