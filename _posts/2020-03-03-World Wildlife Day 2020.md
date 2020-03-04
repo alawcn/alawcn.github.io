@@ -6,7 +6,7 @@ permalink: /world-wildlife-day-2020/
 每年3月3日是世界野生动植物日，旨在赞颂野生动植物的美丽和多样性，提高公众的保护意识。2020年3月3日是联合国第七个世界野生动植物日，主题是“维护地球上所有的生命”，中国主题为“维护全球生命共同体”。
 
 ## 世界野生动物植物保护日 2020：维护地球上所有的生命
->World Wildlife Day 2020: Sustaining all life on Earth
+**World Wildlife Day 2020: Sustaining all life on Earth**
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/ia4LgNFZ4nN5zyZRRQAwwqNtv86CslXaSTnao0GdBqQqibZHYYUNDavmpgtCy2lJjoGiclE2mH7Eu7vBvx7WDTgZw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
