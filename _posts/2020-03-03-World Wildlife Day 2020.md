@@ -46,7 +46,7 @@ permalink: /world-wildlife-day-2020/
 ## 系列活动
 
 ![](https://www.un.org/sites/un2.un.org/files/49456347827_022eb770d6_6k.jpg)
-> Copyright via Un.org
+> copyright via Un.org
 
 CITES秘书处、联合国开发计划署（UNDP）、联合国环境规划署（UNEP）和其他联合国系统机构、联合国成员国、社会民间组织、与生物多样性有关的公约机构正在开展全球层面和国家层面的大型宣传、社交媒体传播等系列宣传活动。2020年3月3日，纽约联合国总部举行了高级别活动、电影节和国际青年艺术比赛。
 
