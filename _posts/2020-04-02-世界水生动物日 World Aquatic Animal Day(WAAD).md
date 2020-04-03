@@ -1,6 +1,13 @@
+---
+layout: page
+title: 世界水生动物日 World Aquatic Animal Day 2020
+permalink: /World-Aquatic-Animal-Day-2020/
+---
+今年，作为动物法法律诊所和水生动物法律倡议的项目之一，美国Lewis & Clark法学院(Lewis & Clark Law School)创立了“世界水生动物日”( “World Aquatic Animal Day”)，设定在每年的4月3日，2020年的主题是“水产业”。
+
 # 世界水生动物日 World Aquatic Animal Day (WAAD)
  
-今年，作为动物法法律诊所和水生动物法律倡议的项目之一，美国Lewis & Clark法学院(Lewis & Clark Law School)创立了“世界水生动物日”( “World Aquatic Animal Day”)，设定在每年的4月3日。
+今年，作为动物法法律诊所和水生动物法律倡议的项目之一，美国Lewis & Clark法学院(Lewis & Clark Law School)创立了“世界水生动物日”( “World Aquatic Animal Day”)，设定在每年的4月3日，2020年的主题是“水产业”。
  
 ![](http://alawcn.github.io/images/WAADINFO.png)
 > 世界水生动物日 World Aquatic Animal Day
