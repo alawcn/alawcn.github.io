@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新闻 News
-固定链接：/ News / 
+固定链接：/ news / 
 ---
 # 0407 十年之后香港大熊猫成功啪啪啪 Pandas mate in Hongkong Zoo.
 
