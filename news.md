@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 新闻 News
+title: 相关新闻 NEWS
 固定链接：/news/ 
 ---
-# 国内外动物法相关新闻 Animal Law News
+
 
 ## 0407 十年之后香港大熊猫成功交配 Pandas mate in Hongkong Zoo.
 
